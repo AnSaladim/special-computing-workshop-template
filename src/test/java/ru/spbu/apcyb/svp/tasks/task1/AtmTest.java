@@ -56,6 +56,32 @@ public class AtmTest {
 
     @Test
     void testGetCombinationsMultipleDenominations3() {
+        long sum = 4;
+        List<Long> numbers = Arrays.asList(2L, 1L);
+        List<List<Long>> target = new ArrayList<>();
+        target.add(Arrays.asList(1L, 1L, 1L, 1L));
+        target.add(Arrays.asList(1L, 1L, 2L));
+        target.add(Arrays.asList(2L, 2L));
+
+        List<List<Long>> result = getCombinations(sum, numbers);
+        assertEquals(target, result);
+    }
+
+    @Test
+    void testGetCombinationsMultipleDenominations4() {
+        long sum = 4;
+        List<Long> numbers = Arrays.asList(1L, 2L);
+        List<List<Long>> target = new ArrayList<>();
+        target.add(Arrays.asList(1L, 1L, 1L, 1L));
+        target.add(Arrays.asList(1L, 1L, 2L));
+        target.add(Arrays.asList(2L, 2L));
+
+        List<List<Long>> result = getCombinations(sum, numbers);
+        assertEquals(target, result);
+    }
+
+    @Test
+    void testGetCombinationsMultipleDenominations5() {
         long sum = 2+3;
         List<Long> numbers = Arrays.asList(1L+1L, 1L+2L);
         List<List<Long>> target = new ArrayList<>();

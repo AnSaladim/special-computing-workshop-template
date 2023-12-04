@@ -33,13 +33,14 @@ class Task1Test {
 
     @ParameterizedTest
     @ValueSource(strings = {
-            "5 \n",
+            "8 \n",
             "5\n1,2,3\n",
             "asd\n2 1\n",
+            "5\n a\n b\n",
             "3+2\n1+1 2+1\n",
             " \n",
             "\n",
-            "5.5\n1 2.2 3\n"
+            "8.5\n1 2.2 3\n"
     })
     void testWrongFormatInput(String input) {
         provideInput(input);
