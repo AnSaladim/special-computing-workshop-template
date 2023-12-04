@@ -40,7 +40,9 @@ class Task1Test {
             "3+2\n1+1 2+1\n",
             " \n",
             "\n",
-            "8.5\n1 2.2 3\n"
+            "8.5\n1 2.2 3\n",
+            "+4-2\n",
+            "92233720368547758077"
     })
     void testWrongFormatInput(String input) {
         provideInput(input);
