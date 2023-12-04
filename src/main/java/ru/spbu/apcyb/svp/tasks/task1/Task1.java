@@ -38,13 +38,13 @@ public class Task1 {
             String forStr = "For string \"" + s + "\"";
             if (Pattern.compile("[^-+0-9]").matcher(s).find()) {
                 throw new NumberFormatException(
-                        forStr + ": an integer consists only of a sign and digits from 0 to 9");
+                        forStr + ": a long consists only of a sign and digits from 0 to 9");
             }
             int pc= StringUtils.countMatches(s, '+');
             int mc = StringUtils.countMatches(s, '-');
             if (pc + mc > 1){
                 throw new NumberFormatException(
-                        forStr + ": too many sign symbols for an integer");
+                        forStr + ": too many sign symbols for an long");
             }
             throw new NumberFormatException(
                     forStr + ": the sign must go ahead of a number");
