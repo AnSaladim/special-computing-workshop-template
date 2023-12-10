@@ -40,12 +40,12 @@ public class Queue1 implements Queue<Object> {
 
     @Override
     public boolean contains(Object o) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод contains не переопределен");
     }
 
     @Override
     public Iterator<Object> iterator() {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод iterator не переопределен");
     }
 
     @Override
@@ -55,56 +55,56 @@ public class Queue1 implements Queue<Object> {
 
     @Override
     public <T> T[] toArray(T[] a) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод toArray не переопределен");
     }
 
     @Override
     public boolean remove(Object o) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод remove не переопределен");
     }
 
     @Override
     public boolean containsAll(Collection<?> c) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод containsAll не переопределен");
     }
 
     @Override
     public boolean addAll(Collection<?> c) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод addAll не переопределен");
     }
 
     @Override
     public boolean removeAll(Collection<?> c) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод removeAll не переопределен");
     }
 
     @Override
     public boolean retainAll(Collection<?> c) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод retainAll не переопределен");
     }
 
     @Override
     public void clear() {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод clear не переопределен");
     }
 
     @Override
     public boolean offer(Object o) {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод offer не переопределен");
     }
 
     @Override
     public Object remove() {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод remove не переопределен");
     }
 
     @Override
     public Object poll() {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод poll не переопределен");
     }
 
     @Override
     public Object element() {
-        throw new UnsupportedOperationException();
+        throw new UnsupportedOperationException("Метод element не переопределен");
     }
 }
