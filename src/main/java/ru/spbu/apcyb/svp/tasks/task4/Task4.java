@@ -62,7 +62,9 @@ class Task4 {
                 }
                 String[] tmp = sb.toString().split(" ");
 
-                ExecutorService threadPool = Executors.newFixedThreadPool(nThreads);
+                ExecutorService threadPool = null;
+                try {
+                    threadPool = Executors.newFixedThreadPool(nThreads);
                     long start = System.nanoTime();
 
                     List<CompletableFuture<Double>> futures = new ArrayList<>();
@@ -78,6 +80,11 @@ class Task4 {
                     System.out.println(format("Multi thread Executed by %d ns, size : %d",
                             (System.nanoTime() - start), size));
                     threadPool.shutdown();
+                } finally {
+                    if (threadPool != null){
+                    threadPool.shutdown();
+                    }
+                }
 
             }
         }
