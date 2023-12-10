@@ -11,8 +11,6 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
-import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Stream;
 
@@ -96,14 +94,5 @@ public class Task5 {
                 executorService.shutdown();
             }
         }
-        try {
-            if (!executorService.awaitTermination(1, TimeUnit.MINUTES)) {
-                log.log(Level.WARNING, "Termination timeout");
-            }
-        } catch (InterruptedException exception) {
-            log.log(Level.WARNING, "Interrupted!", exception);
-            Thread.currentThread().interrupt();
-        }
-
     }
 }
