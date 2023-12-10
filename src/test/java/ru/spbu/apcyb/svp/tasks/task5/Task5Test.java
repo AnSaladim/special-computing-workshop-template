@@ -15,7 +15,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Тесты для задания 5.
  */
-public class Task5Test {
+class Task5Test {
 
     private final File testFile = new File(
             ".\\src\\test\\java\\ru\\spbu\\apcyb\\svp\\tasks\\task5\\testFile.txt");
