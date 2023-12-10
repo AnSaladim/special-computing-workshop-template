@@ -1,32 +1,22 @@
 package ru.spbu.apcyb.svp.tasks.task1;
 
 import java.util.*;
-import java.util.regex.Pattern;
-import org.apache.commons.lang3.StringUtils;
-
-import static java.lang.Long.parseLong;
 
 /**
  * Atm
  */
 public class Task1 {
+
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
-
+        Scanner in = new Scanner(System.in);
         System.out.print("Enter amount: ");
-        long amount = parseLongg(sc.nextLine());
-
+        String stringAmount = in.nextLine();
         System.out.print("Enter denominations: ");
-        String denominations = sc.nextLine();
-        List<Long> nums = new ArrayList<>(Arrays
-                .stream(denominations.split("\\s"))
-                .filter(s -> !s.isEmpty())
-                .map(Task1::parseLongg)
-                .toList());
-        sc.close();
+        String stringBanknotes = in.nextLine();
+        in.close();
 
-        List<List<Long>> ans = getCombinations(amount, nums);
+        List<List<Long>> ans = getCombinations(stringAmount, stringBanknotes);
         System.out.println("==================");
         System.out.print("Сombination count: ");
         System.out.println(ans.size());
@@ -38,27 +28,72 @@ public class Task1 {
     /**
      * Подпрограмма для перевода строки в массив чисел.
      *
-     * @param s строка со списком доступных номиналов, записанных через пробел.
+     * @param stringBanknotes строка со списком доступных номиналов, записанных через пробел.
      * @return массив купюр.
      */
-    public static long parseLongg(String s) {
-        try {
-            return parseLong(s);
-        } catch (NumberFormatException e) {
-            String forStr = "For string \"" + s + "\"";
-            if (Pattern.compile("[^-+0-9]").matcher(s).find()) {
-                throw new NumberFormatException(
-                        forStr + ": a long consists only of a sign and digits from 0 to 9");
+    public static long[] inputLongList(String stringBanknotes) {
+
+        String[] splitStr = stringBanknotes.split("\\D+");
+
+        long[] banknotes = new long[splitStr.length];
+
+        for (int i = 0; i < banknotes.length; i++) {
+            try {
+                banknotes[i] = Long.parseLong(splitStr[i]);
+                if (banknotes[i] <= 0) {
+                    throw new NumberFormatException();
+                }
+            } catch (NumberFormatException e) {
+                System.out.print( "incorrect input denominations");
+                throw e;
             }
-            int pc= StringUtils.countMatches(s, '+');
-            int mc = StringUtils.countMatches(s, '-');
-            if (pc + mc > 1){
-                throw new NumberFormatException(
-                        forStr + ": too many sign symbols for an long");
-            }
-            throw new NumberFormatException(
-                    forStr + ": the sign must go ahead of a number");
         }
+        if (banknotes.length == 0) {
+            System.out.print( "denominations must not be empty");
+            throw new NumberFormatException();
+        }
+        return banknotes;
+    }
+
+    /**
+     * Метод, который вычисляет всевозможные варианты разложения суммы по имеющимся номиналам,
+     * сортированными по возрастанию.
+     *
+     * @param stringAmount  сумма, которую нужно разменять.
+     * @param stringBanknotes  имеющиеся номиналы для размена.
+     *
+     * @return массив массивов всех вохможных комбинаций размена суммы.
+     *
+     */
+    public static List<List<Long>> getCombinations(String stringAmount, String stringBanknotes) {
+
+        long amount;
+        try {
+            amount = Long.parseLong(stringAmount);
+        } catch (NumberFormatException e) {
+            System.out.print( "incorrect input amount");
+            throw e;
+        }
+        if (amount <= 0) {
+            System.out.print("amount must be positive");
+            throw new NumberFormatException();
+        }
+        long[] nums = inputLongList(stringBanknotes);
+        nums = Arrays.stream(nums).distinct().toArray();
+
+        List<Long> denominations = new ArrayList<>();
+        int i;
+        for (i = 0; i < nums.length; i++) {
+            denominations.add(nums[i]);
+        }
+        Collections.sort(denominations);
+
+        List<Long> currentCombination = new ArrayList<>();
+        List<List<Long>> combinations = new ArrayList<>();
+        long maxDenomination = denominations.get(denominations.size()-1);
+
+        calcCombinations(amount, maxDenomination, denominations, currentCombination, combinations);
+        return combinations;
     }
 
     /**
@@ -90,37 +125,5 @@ public class Task1 {
                 currentCombination.remove(currentCombination.size() - 1);
             }
         }
-    }
-
-    /**
-     * Метод, который вычисляет всевозможные варианты разложения суммы по имеющимся номиналам,
-     * сортированными по возрастанию.
-     *
-     * @param amount  сумма, которую нужно разменять.
-     * @param denominations  имеющиеся номиналы для размена.
-     *
-     * @return массив массивов всех вохможных комбинаций размена суммы.
-     *
-     */
-    public static List<List<Long>> getCombinations(long amount, List<Long> denominations) {
-        if (denominations == null) {
-            throw new InputMismatchException("Numbers must not be null");
-        }
-        if (denominations.isEmpty()) {
-            throw new IllegalArgumentException("Numbers must not be empty");
-        }
-        if (amount <= 0 || denominations.stream().anyMatch(n -> (n <= 0))) {
-            throw new IllegalArgumentException("Sum and numbers must be positive");
-        }
-
-        denominations = new ArrayList<>(denominations.stream().distinct().toList());
-        Collections.sort(denominations);
-
-        List<Long> currentCombination = new ArrayList<>();
-        List<List<Long>> combinations = new ArrayList<>();
-        long maxDenomination = denominations.get(denominations.size()-1);
-
-        calcCombinations(amount, maxDenomination, denominations, currentCombination, combinations);
-        return combinations;
     }
 }

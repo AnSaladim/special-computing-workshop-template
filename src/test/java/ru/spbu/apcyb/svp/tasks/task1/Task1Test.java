@@ -1,215 +1,129 @@
 package ru.spbu.apcyb.svp.tasks.task1;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
-import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.InputMismatchException;
 import java.util.List;
+import java.util.stream.Collectors;
 
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.ValueSource;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
-import static ru.spbu.apcyb.svp.tasks.task1.Task1.getCombinations;
+import static ru.spbu.apcyb.svp.tasks.task1.Task1.inputLongList;
 
 class Task1Test {
 
-    private final InputStream systemIn = System.in;
-    private final PrintStream systemOut = System.out;
+    @Test
+    void isAmountIsNegative() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("-5", "2 1");
+        });
 
-    @BeforeEach
-    public void setUpOutput() {
-        ByteArrayOutputStream testOut = new ByteArrayOutputStream();
-        System.setOut(new PrintStream(testOut));
-    }
-
-    private void provideInput(String data) {
-        ByteArrayInputStream testIn = new ByteArrayInputStream(data.getBytes());
-        System.setIn(testIn);
-    }
-
-    @AfterEach
-    public void restoreSystemInputOutput() {
-        System.setIn(systemIn);
-        System.setOut(systemOut);
-    }
-
-    @ParameterizedTest
-    @ValueSource(strings = {
-            "8 \n",
-            "5\n1,2,3\n",
-            "asd\n2 1\n",
-            "5\n a\n b\n",
-            "3+2\n1+1 2+1\n",
-            " \n",
-            "\n",
-            "8.5\n1 2.2 3\n",
-            "+4-2\n",
-            "92233720368547758077"
-    })
-    void testWrongFormatInput(String input) {
-        provideInput(input);
-
-        Assertions.assertThrows(NumberFormatException.class, () -> Task1.main(null));
-    }
-
-    @ParameterizedTest
-    @ValueSource(strings = {
-            "5\n \n",
-            "5\n         \n"
-    })
-    void testEmptyNumbersInput(String input) {
-        provideInput(input);
-
-        Assertions.assertThrows(IllegalArgumentException.class, () -> Task1.main(null));
     }
 
     @Test
-    void testCalcCombinationsSingleDenomination() {
-        long sum = 8;
-        List<Long> numbers = new ArrayList<>();
-        numbers.add(8L);
-        List<List<Long>> target = new ArrayList<>();
-        target.add(new ArrayList<>(numbers));
+    void isBanknoteIsNegative() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("5", "-1 1");
+        });
 
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
     }
 
     @Test
-    void testGetCombinationsMultipleDenominations1() {
-        long sum = 8;
-        List<Long> numbers = Arrays.asList(1L, 2L, 3L);
-        List<List<Long>> target = new ArrayList<>();
-        target.add(Arrays.asList(1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L));
-        target.add(Arrays.asList(2L, 1L, 1L, 1L, 1L, 1L, 1L));
-        target.add(Arrays.asList(2L, 2L, 1L, 1L, 1L, 1L));
-        target.add(Arrays.asList(2L, 2L, 2L, 1L, 1L));
-        target.add(Arrays.asList(2L, 2L, 2L, 2L));
-        target.add(Arrays.asList(3L, 1L, 1L, 1L, 1L, 1L));
-        target.add(Arrays.asList(3L, 2L, 1L, 1L, 1L));
-        target.add(Arrays.asList(3L, 2L, 2L, 1L));
-        target.add(Arrays.asList(3L, 3L, 1L, 1L));
-        target.add(Arrays.asList(3L, 3L, 2L));
+    void isIncorrectInputOfAmount() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("abc", "1 2");
+        });
 
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
     }
 
     @Test
-    void testGetCombinationsMultipleDenominations2() {
-        long sum = 5;
-        List<Long> numbers = Arrays.asList(2L, 3L);
-        List<List<Long>> target = new ArrayList<>();
-        target.add(Arrays.asList(3L, 2L));
+    void isIncorrectInputOfBanknotes() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("5", "a b c");
+        });
 
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
     }
 
     @Test
-    void testGetCombinationsMultipleDenominations3() {
-        long sum = 4;
-        List<Long> numbers = Arrays.asList(2L, 1L);
-        List<List<Long>> target = new ArrayList<>();
-        target.add(Arrays.asList(1L, 1L, 1L, 1L));
-        target.add(Arrays.asList(2L, 1L, 1L));
-        target.add(Arrays.asList(2L, 2L));
+    void isSum() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("3+2", "1+1 2+1");
+        });
 
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
     }
 
     @Test
-    void testGetCombinationsMultipleDenominations4() {
-        long sum = 4;
-        List<Long> numbers = Arrays.asList(1L, 2L);
-        List<List<Long>> target = new ArrayList<>();
-        target.add(Arrays.asList(1L, 1L, 1L, 1L));
-        target.add(Arrays.asList(2L, 1L, 1L));
-        target.add(Arrays.asList(2L, 2L));
-
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
+    void isBanknotes() {
+        List<List<Long>> result = Task1.getCombinations("5", "3 2");
+        List<List<Long>> answer = new ArrayList<>();
+        answer.add(Arrays.stream(inputLongList("3 2")).boxed().collect(Collectors.toList()));
+        Assertions.assertIterableEquals(result, answer);
     }
 
     @Test
-    void testGetCombinationsMultipleDenominations5() {
-        long sum = 2+3;
-        List<Long> numbers = Arrays.asList(1L+1L, 1L+2L);
-        List<List<Long>> target = new ArrayList<>();
-        target.add(Arrays.asList(3L, 2L));
-
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
+    void isIndependentOfTheOrder() {
+        List<List<Long>> result1 = Task1.getCombinations("4", "2 1");
+        List<List<Long>> result2 = Task1.getCombinations("4", "1 2");
+        Assertions.assertIterableEquals(result1, result2);
     }
 
     @Test
-    void testCalcCombinationsSingleDenomination2() {
-        long sum = 300000000;
-        List<Long> numbers = new ArrayList<>();
-        numbers.add(300000000L);
-        List<List<Long>> target = new ArrayList<>();
-        target.add(new ArrayList<>(numbers));
+    void isThousandBanknotes() {
+        List<List<Long>> result = Task1.getCombinations("1000", "1");
+        Assertions.assertFalse(result.size() == 0);
+    }
 
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
+
+    @Test
+    void isThousandAmount() {
+        List<List<Long>> result = Task1.getCombinations("1000", "500 1");
+        Assertions.assertFalse(result.size() == 0);
     }
 
     @Test
-    void testGetCombinationsNoCombinationsPossible() {
-        long sum = 8;
-        List<Long> numbers = new ArrayList<>();
-        numbers.add(6L);
-        List<List<Long>> target = new ArrayList<>();
-
-        List<List<Long>> result = getCombinations(sum, numbers);
-        assertEquals(target, result);
+    void isTooHighBills() {
+        List<List<Long>> result = Task1.getCombinations("5", "10 6");
+        Assertions.assertTrue(result.size() == 0);
     }
 
     @Test
-    void testGetCombinationsZeroAmount() {
-        long sum = 0;
-        List<Long> numbers = Arrays.asList(6L, 2L);
-
-        assertThrows(IllegalArgumentException.class, () -> getCombinations(sum, numbers));
+    void isBigBanknotes() {
+        List<List<Long>> result = Task1.getCombinations("3000000000", "3000000000");
+        List<List<Long>> answer = new ArrayList<>();
+        answer.add(Arrays.stream(inputLongList("3000000000")).boxed().collect(Collectors.toList()));
+        Assertions.assertIterableEquals(result, answer);
     }
 
     @Test
-    void testGetCombinationsNoDenominations() {
-        long sum = 8;
-        List<Long> numbers = new ArrayList<>();
-
-        assertThrows(IllegalArgumentException.class, () -> getCombinations(sum, numbers));
+    void isAmountIsEmpty() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("", "2 1");
+        });
     }
 
     @Test
-    void testGetCombinationsNegativeAmount() {
-        long sum = -8;
-        List<Long> numbers = Arrays.asList(6L, 2L);
-
-        assertThrows(IllegalArgumentException.class, () -> getCombinations(sum, numbers));
+    void isAmountIsZero() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("", "2 1");
+        });
     }
 
     @Test
-    void testGetCombinationsNegativeDenominations() {
-        long sum = 5;
-        List<Long> numbers = Arrays.asList(0L, -2L);
+    void isBanknotesIsZero() {
+        Assertions.assertThrows(NumberFormatException.class, () -> {
+            Task1.getCombinations("5", "0");
+        });
 
-        assertThrows(IllegalArgumentException.class, () -> getCombinations(sum, numbers));
     }
 
     @Test
-    void testGetCombinationsNullDenominations() {
-        long sum = 5;
-        List<Long> numbers = null;
-
-        assertThrows(InputMismatchException.class, () -> getCombinations(sum, numbers));
+    void isRepeatedBanknotes() {
+        List<List<Long>> result = Task1.getCombinations("20", "10 10");
+        List<List<Long>> answer = new ArrayList<>();
+        List<Long> answerInt = new ArrayList<>();
+        answerInt.add(Long.valueOf(10));
+        answerInt.add(Long.valueOf(10));
+        answer.add(answerInt);
+        Assertions.assertIterableEquals(result, answer);
     }
 }
