@@ -81,7 +81,6 @@ class Task4 {
                     fileWriter.flush();
                     System.out.println(format("Multi thread Executed by %d ns, size : %d",
                             (System.nanoTime() - start), size));
-                    threadPool.shutdown();
                 } finally {
                     if (threadPool != null){
                     threadPool.shutdown();
