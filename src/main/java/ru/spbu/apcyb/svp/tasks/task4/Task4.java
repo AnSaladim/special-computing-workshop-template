@@ -1,6 +1,7 @@
 package ru.spbu.apcyb.svp.tasks.task4;
 
 import java.io.*;
+import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
@@ -21,8 +22,9 @@ class Task4 {
     }
     public static void generateNumbersFile(String fileWriteName, int size) throws IOException {
         try (FileWriter fileWriter = new FileWriter(fileWriteName, false)) {
+            SecureRandom rand = new SecureRandom();
             for (int i = 0; i < size; i++) {
-                fileWriter.write(Float.toString(ThreadLocalRandom.current().nextFloat(-1000, 1000)) + " ");
+                fileWriter.write(Float.toString(rand.nextFloat(-1000, 1000)) + " ");
             }
             fileWriter.flush();
         }
