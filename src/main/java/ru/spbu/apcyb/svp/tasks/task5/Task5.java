@@ -93,7 +93,7 @@ public class Task5 {
                             finalExecutorService));
         } finally {
             if (executorService != null) {
-                executorService.shutdown();
+                executorService.close();
             }
         }
         try {
