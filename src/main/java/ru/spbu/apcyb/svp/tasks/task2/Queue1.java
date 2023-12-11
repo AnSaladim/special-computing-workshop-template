@@ -64,23 +64,23 @@ public class Queue1 implements Queue<Object> {
     }
 
     @Override
-    public boolean containsAll(Collection<?> c) {
-        throw new UnsupportedOperationException("Метод containsAll не переопределен для очереди");
-    }
-
-    @Override
     public boolean addAll(Collection<?> c) {
         throw new UnsupportedOperationException("Метод addAll не переопределен для очереди");
     }
 
     @Override
-    public boolean removeAll(Collection<?> c) {
-        throw new UnsupportedOperationException("Метод removeAll не переопределен для очереди");
+    public boolean containsAll(Collection<?> c) {
+        throw new UnsupportedOperationException("Метод containsAll не переопределен для очереди");
     }
 
     @Override
     public boolean retainAll(Collection<?> c) {
         throw new UnsupportedOperationException("Метод retainAll не переопределен для очереди");
+    }
+
+    @Override
+    public boolean removeAll(Collection<?> c) {
+        throw new UnsupportedOperationException("Метод removeAll не переопределен для очереди");
     }
 
     @Override
