@@ -5,19 +5,19 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.NotDirectoryException;
-import java.util.Scanner;
 
 /**
  * Задание 3.
  */
 public class Task3 {
     public static void main(String[] args) throws IOException {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter path: ");
-        String path = scanner.nextLine();
-        System.out.print("Enter file: ");
-        String file2Save = scanner.nextLine();
-        scanner.close();
+        if (args.length != 2) {
+            System.out.println("incorrect input: too many arguments");
+            throw new RuntimeException();
+        }
+
+        String path = args[0];
+        String file2Save = args[1];
 
         try (FileWriter writer = new FileWriter(file2Save)) {
             File currentDir = new File(path).getAbsoluteFile();
