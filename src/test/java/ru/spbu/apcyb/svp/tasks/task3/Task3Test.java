@@ -7,6 +7,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.NotDirectoryException;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
@@ -19,8 +20,8 @@ class Task3Test {
         assertThrows(
                 FileNotFoundException.class,
                 () -> {
-                FileWriter file = new FileWriter("testfile");
-                File dir = new File("skgsvlnsxckmvnxclv").getAbsoluteFile();
+                FileWriter file = new FileWriter("src/test/resources/testfile");
+                File dir = new File("/src/main/task3/").getAbsoluteFile();
                 Task3.displayDirectoryContents(dir, file);
                 }
         );
@@ -31,7 +32,7 @@ class Task3Test {
         assertThrows(
                 FileNotFoundException.class,
                 () -> {
-                    FileWriter file = new FileWriter("ggsgsgsgsdgssdgs");
+                    FileWriter file = new FileWriter("src/test/resources/ggsgsgsgsdgssdgs");
                     File dir = new File("/afaf/afaf").getAbsoluteFile();
                     Task3.displayDirectoryContents(dir, file);
                 }
@@ -39,16 +40,28 @@ class Task3Test {
     }
 
     @Test
+    void isNotDirectory() {
+        assertThrows(
+                NotDirectoryException.class,
+                () -> {
+                    FileWriter file = new FileWriter("src/test/resources/testfile");
+                    File dir = new File("src/test/resources/testfile2").getAbsoluteFile();
+                    Task3.displayDirectoryContents(dir, file);
+                }
+        );
+    }
+
+    @Test
     void normalRun() throws IOException {
-        FileWriter file = new FileWriter("testfile");
+        FileWriter file = new FileWriter("src/test/resources/testfile");
         File dir = new File(".").getAbsoluteFile();
         Task3.displayDirectoryContents(dir, file);
     }
 
     @Test
     void normalRun2() throws IOException {
-        FileWriter file = new FileWriter("testfile2");
-        File dir = new File("..//").getAbsoluteFile();
+        FileWriter file = new FileWriter("src/test/resources/testfile2");
+        File dir = new File("src/test/resources").getAbsoluteFile();
         Task3.displayDirectoryContents(dir, file);
     }
 

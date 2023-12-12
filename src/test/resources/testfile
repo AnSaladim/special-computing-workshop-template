@@ -1,0 +1,1119 @@
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\COMMIT_EDITMSG
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\config
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\description
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\FETCH_HEAD
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\HEAD
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\applypatch-msg.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\commit-msg.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\fsmonitor-watchman.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\post-update.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\pre-applypatch.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\pre-commit.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\pre-merge-commit.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\pre-push.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\pre-rebase.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\pre-receive.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\prepare-commit-msg.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\push-to-checkout.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\hooks\update.sample
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\index
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\info
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\info\exclude
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\HEAD
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads\main
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads\Task-2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads\Task-3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads\Task-4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads\Task-5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads\Task1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\heads\Task3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\dev1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\HEAD
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\new-task-2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task-2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task-3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task-4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task-5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\logs\refs\remotes\origin\Task5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\00
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\00\48ce5a74e0a9416b15493d85121774c75c3256
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\00\84e8ef6ddb03d91a74428bec15bf5a85c39ea2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\00\ce1811c56850049eb120fc1b993abb7002236a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\01
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\01\0a73032c6079f71eadba07be944b0465822f14
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\01\70bc738ed022c8572e280ae0fd8e6c33e470a2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\01\7cd12e3d31702c55990155dc1e99d819ed2f9d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\02
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\02\0d2dd39c405e74088af6654bfcc69c9da94b1d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\02\16cc889448cc06ff3db164f547857eab3a7342
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\02\4b1de5c0db7bda61a829dff11507d7d807dc03
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\02\c5c7b1e19c7593b8b88bcf466d497205d97316
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\04
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\04\272859ef5e9212a589eb62aed4b6ae27b9b4fb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\04\3266932ee75443bc54c5538c35cf4051a23714
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\04\6dc73ac3cbf7bf7ca06a3cc6b2ff0c82d3ec3e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\05
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\05\0a9edd8c56ead4f3d900072f1b703e76849f83
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\05\6d904dcfdf9e910b8ec19bbd88891329f0d984
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\05\94394d32c05573bf5a70d9bc92c542688e6b63
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\05\fc29da8d73deaf2bf8ef293191799eddf3f285
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\06
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\06\17a61148e32e34e8226d35fb85e6d308fa122b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\07
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\07\0876248f37aa654cd39a0cc9acf95f1377801e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\07\53a0a987d3467f4f5606e90878a3f721c0e3fc
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\07\9fd51105ef5f4dabd97ff8ebbbfe738dfe86f4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\07\a145249b3c2394658958983d35317f4ce45ee9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\08
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\08\992c9860587e7c506291fc1230ab14f0f0bc5b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\09
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\09\afe070a37e6a83491bfe96df5f1b2e1be0a056
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\09\c5ed772b8af18b515b6ba9e8b4987b1fa693f2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0a\34fb3a907732faf46d4b519a2e49033e1f60f7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0a\59d21d14d5540e5292f19861b2bf618e42e74e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0a\71646c2c3dbf4041e02d14cdbf87f2f1e567af
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0a\db0a54b31ae4759e253a23d39571fef049f0b1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0a\f486de5787d59e33aa4e7abf251ffb5c063b56
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0a\fd5d37ec0f6e8a2a46cb7e198549cbe800875d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0b\12b204e990ca203f8634a0f69920a02b382822
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0b\2d49ae5a4d96ced18f4e5e458778a9818f9310
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0b\4ae02445d03b60a9c2377be7206de2887ef6ef
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0b\f044caf0628befc1ed3ab87996afba0caea16b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0c\a3791ef8c593f6ee5860b67db6e6884e90ccf8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0d\9289eab1111c916771cfa659115065b3710caa
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0e\0909f9824bb25893e2d69f8159f232ec7ea3a9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0f\7404939b812af55b637b653d2a9a45ec05040a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0f\a6ad53de02b67101cbec81ca3494ffbe22b114
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0f\c22dd17970f26aacfbfc49f6d52557259d6f36
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\0f\f5befb614d0874196f8a0f1f7b2f729cbc6e8e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\10
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\10\c12a9cfe6b6d578d9f2d09d5e8b69d7c8bc24a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\10\cbaf0284a7dc743db3530ad228ef03a2639aa1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\11
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\11\a5b4a1b3b3607dbfa1719102445682196ce64a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\11\ab0c63d15f14960e2d6923f9aae20e5621c5a1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\11\df88747422231bcb7084b24d481e796bd41091
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\12
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\12\cc4e4e7be08a5e5f63404192213d4ba56c31e8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\13
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\13\8abf590d54b3e56e83031aff70534180472f78
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\13\97e142d5e7c80ef09f6e2553ebb43ab0abac75
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\14
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\14\4c957fefb7f178ed773aa2588f094df5557192
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\14\8dada512d13bf74c9d3265b717019f079c8011
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\14\c15fcffe192890b1a4b51d56644ba6b21a7fcc
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\15
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\15\0d5cddada8de19ba0f87c102868a897bc73314
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\15\21d0fa8875cc7042e1531318e1bb68640a78c5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\15\648e51709e06de4b16315367cf3823b95a60b4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\15\76c4d89bfd0a1f6c7aaa9852b4100b4bb903a9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\16
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\16\ad7bc3f0cfad7b03d5ef12308d1dd49f209618
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\17
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\17\7c27b9da31909a139b3396a37a6ee928b0f8f6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\17\86728fd31c4a0c0a55e0bb6a75c3f4ffa9606a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\17\9228a62a2c42b65003306afbc4994744777b66
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\17\b3075f8ee3f267341ea7209e2ee15af42a85c5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\17\b5335b942404dea06fa7c14b63da8f0bacbe9b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\19
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\19\67608668d51e7ba19ec1d91a2773dba9e15c69
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\19\d0c3a30d6eceb8ef11808ff2ad33b370aec201
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1a\edb6b0e7b028c80bdd31e4721014252bb46f40
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1b\5de5e7f94ff8dda98679925ad30f4ff6cee946
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1c\55cfd5be46391f931fc4fc8041810c1ad1ce42
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1c\cd56598a36896f427a472bee438083dc869e04
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1d\d3145fac82f9f35b17cac9f7efc0dab4125646
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1e\3801cf0b9d5d23960c32641e962df386f7a9d6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1e\a10c92379be94ab642a40d60689a2db28b6ab6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\1f\ebbcd615d7cf28f4b3dc2ec21f8cf0fb6a9a07
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20\2bdc768bbf64383deec9b428233304c15e12c4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20\5a21bd3682b89e4c025b63580fa721ccd48463
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20\686f33fff6c37cbe1b4abe4ae140712bc92116
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20\68e5747dda3b2f8037e258edec57e82b3633e6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20\a557f8ee1806d1a08b2845ec9765ef167b4115
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20\aa61820439f468c39834610e0ae7027574fb11
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\20\d3265b23ab7c0dba1c177ca8e97a379bff6040
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\21
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\21\3386c6d06a7f97d1df993d691f2cdc6e5d5c42
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\21\ae93ddc4121e5bba2261628b8e9b5ab70a8648
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\21\c6a6cb7df5bfe2eebd19c745196971cc9ce272
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\21\de6e93b0d633b6c2d91c4a048281368bd518f3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\22
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\22\079dc2b599b6f9cd7f34ffdcd2210118aeda66
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\22\5dff9e39bce8cf085c431153976addae76c0d6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\22\83c1b0279148e1262dfaf544c81e5556e84672
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\23
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\23\204c675b7842026637bde3b1c7b0ebf4bc1b17
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\23\8b55bf925314b9c159d42bde8a1405f6b451bd
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\25
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\25\1f0d42a0ab66f6ce344358eecbed2e924b1396
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\25\ce4befe6e60fd4b51df5ee78f0676b4c4c438c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\26
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\26\4e6211b67665dfc65d9e84b4a04fac9589b895
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\26\62d3720c6905e6a8907f54e6fa3db62a25b091
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\28
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\28\071de20a41910b4298249a8f2de5145a159d66
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\28\4383ae49387015777224056549406457850a56
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\28\95e83bc4c74a9cb40ceea7622a16a986eb6f5d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\29
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\29\457dfe7c6599c66a6f4d97c737bb7538d1ee98
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\29\5e81fc49058530a18abf66a2801b58a2c7165c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\29\eb729108ae4a25444b0e0b297eb46156bda4d2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2a\0f8610909280602073fdb000119c04303ecb32
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2a\73423821c57a1980d65335c912bf31fdbfd39e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2a\fbc206cc01cb29f547d67d894fb6bb357eef8e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2c\664aeedab9d152494bf26c0360e0a337b563a8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2c\7c22d1fe398e5d9b57249230130b96b1bd9507
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2c\d3c1e9abb74dba4fec7fbc5b850611f9ca84f2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2d\dff23f816be7522ebf457179575e0696175621
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2d\e3a2f3944198ecb8823cf7bbc65ffeb857f549
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2e\762185d24cb85bf15e6e8a7cf0677d2d7b28dc
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2e\777aaa79ee85db13e01d1ba6721e4c45e32cc3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2e\b2a4e52d86933e0445557904528a9b840ce983
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2e\d998bea9028ebb6897216398a7d3fec81227ba
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2e\fe68d7b7e0452d2b8034b35cd3cd4e1f646bcc
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2f\a929df92867dbf8d6c5c54f73f76cdf34ead47
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\2f\e1463e0db7ba0c95696f29f2f9036b85bad5e2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\30
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\30\153e55cd5d5589b68c293276ae60217903b0ec
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\30\233a745d10144375bd838cd489c29c62c8bd0c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\30\f54b53412d3ce0d5778c9c1440f9c9268453d7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\31
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\31\21898421ad8f9da06b43138fed7395ed3ff955
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\31\242559ed67c7b528975d06c45d3b62ad6ce859
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\31\db672a2561eb64dac53bffa0a88b71098af5f0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\32
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\32\02712611cd7ae12f43c669bc71d5cf9b3ccfe6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\32\230fb3df3535f2adcf6c4a83024b34aaae26f2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\33
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\33\5150b40ec2bd44b6809e3e352ffa325c70afe6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\33\88a041c39f2dfaabb28c116162fa51ae89e347
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\33\cfd2604fdaa2b756babc367b7e5703c5f26021
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\33\d750a6f2875e54f7e87c9697075f46ee99cd25
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\34
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\34\1ed50c970e2c3049b6e348568b76a72d1a82e7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\34\5f218dad9c02ab477c1a353a8c863a2767c5f7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\34\a0a6865e898ea89b47abb60be890379c625b6c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\35
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\35\3492a7b5bc489a9f0ebdeb42f3551a79631fc4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\35\64de8a8d64c2286509deb1c26a5d76003cd7b1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\36
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\36\0cebd144d05d0a675fce956dd72ef6e0e4ab3c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\36\3f6ac2d59ce723d9225b63e598fb66bc5ea70b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\36\503ff29ea3c8d1c535866f827c73fcfaafdf17
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\37
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\37\0631b938cd60a90602081461365162c791e0ce
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\37\5b5a88fb411d4e4b57262a6d15696d4da4ad2f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\37\d6e06a32993c353e50b16f32bb6f82bd6665b1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\38
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\38\e2e21a13d0d51b248f5bded34e907019544303
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\38\ea3d307569c458037d2e27971ecb77d6482805
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\39
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\39\2018747a58cf22fec8b15c05c68dc3ac60ed80
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\39\2d0d1f5bd692786e793e56abdfd4579afbc5cf
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\39\6a0ba2698c6a26f17a1e0141f9d1e7a6a56d46
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3a\1cfbab7559ab6aa6a852e33da531d6d872bbef
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3a\485468be97563069ec46d2f265dbeeb244119b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3a\aca47b7e81f7433334897b39877a1efc749289
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3a\f275a22d463666f4102e2219a441e3c143cda4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3b\37d6d4b01a4bf65d0a91802f9b1394a4de3e49
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3b\5da37b0dd947393bb12f7b3dcadc4c992c4580
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3b\7e674007fc538b2a826334db53bd8dc4eb42b8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3c\a9ba6bfdd4db23083caf520b8925efe152c542
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3d\37a9d5ff306bf9dccc8832069f1161f5bdf297
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3d\6b1c42601944c0eb825b274a6e4b3597661483
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3d\abe541a4fb31eae3648ab0f3314ee7f82483af
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3e\8f9de8e746d4103d92c879f929615443449cc1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3e\9acef28c7dd57c3eb2bc61873f53bb2427c99f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3f\a97f6bcc3f53d8a48ed7c69eea1deea330a65a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\3f\b7ade21113802a9730f7e48d949b3b65e25d23
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\40
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\40\8aa307653c8b80204770476ff7bd91e5c4a7c2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\41
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\41\182134fb8acb34332355d715217a577caaa6a5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\42
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\42\01e72510baf89c1b72f9d3e74247864dd1f49c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\42\8136865b26f86991a05b5e00b39d9f8ca09609
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\43
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\43\216fa9a704c48062bb9b139ece31ef95a2a2db
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\43\29adecb44c8e47dfbae48c36af6a4d0198a080
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\43\32bd058549c5172c768d953823135042127598
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\44
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\44\118fc742a755b85710c4f53ddd9ccc743463a4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\44\577a05a404781dfee2612ee8efb4956265ebde
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\44\8d062f92ee6e1bb5229abba16ea4dfadea1323
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\44\a0d0f1d904ee7b6808f2c8ee1879977ac4f8e6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\44\eb4488db699aa9cfc1548cb83343cbb4e1fabd
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\44\eb5e54ce89dadddf2567a1c1e4ddc2a6d09c19
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\45
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\45\4f1878c3c21956d4c24dc1f1ed7d0c7f49ab0f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\45\56a75b2489da5888a90535a9f3cee3e66d91af
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\46
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\46\2fd3b8bad0c9dbf01f4a3f02409b661fe95306
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\46\edbb4f532eb13586b18d9fad0ffdf27e0d5e88
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\47
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\47\534dfe2d772423350a33181120331b3f21c7d0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\47\56bbb11181d16b7f0629d337811129f1d850e4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\47\8fe098c8b4cb715acd69380039c00ae982ce9f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\47\a677c78e172f37f9ebbfaf7cc392c4683ca7cb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\49
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\49\d57e9cfc892f182dd386a05f85e3079ed2bf35
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4a\902245ffb1e1907f36e96eb6b551a3a907ccad
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4b\0505745f102b8207eec947db6d6c883b0594b5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4b\d2bddbf1bc0397049db33394a7ef5a2eeceebb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4c\59d8cc075f01159259c89e9fb1a541684670d4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4c\66097569ac6f9b4f96b500fe62f48c2b1d9f31
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4c\9ed4576cfeb96cadf35f2277aefc7802cc495a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4c\a9e8ef524589c924c78c9f20b773eda31096d9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4c\bf4d813cc3f50b5cc2e4cae64bf4f8b4e9b04a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4d\55db7098ffb61ffd150e454aaa6b612b12e2fc
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4f\23a37e7c187193a22a4b0622282ecfd5afad15
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\4f\d3443b0ec641c44a6da428c488ca589db3d7b1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\50
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\50\06f26daf32edbdbbbd198e298db972f899ebdf
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\51
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\51\c4729e4f8dc1e4ec8d82d109bdadc39c386baf
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\52
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\52\3ea15b42560783d77eb9fc57329fe09b984fb9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\52\5434848519e321aa06e66edf1c0633395677d3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\52\e3ef942691c50819bb9cec724ee333c14f0a4e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\54
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\54\299a48fb3ae76c848b3acc12248574d05d81b8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\54\711e5347be57167b3b553095d10669d562d26b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\54\de8ea0ad976ba9960c32409a748d20df2071ea
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\55
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\55\09e73d17494930846bc54fce3a6563395a53f4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\55\bacea29139f0c649982bce4612e4c1ae777746
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\55\dde93957ab110e42476f9784e22ff3b11b172d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\56
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\56\081c6179fc77d53afd3f5c4e07f27596c7c713
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\56\e167124ba00a95534edbe5cbf06b45d1d2bc5a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\56\e54c8de8ebdf4256fffe6a60e70e07500260cd
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\57
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\57\300843ef8bedeab4d90649fc90418e67a5cb3d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\57\445c5e3e3384a58e0b956d120357f991ab2e75
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\58
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\58\90f8ac3945d2865273cdb335b45bf81612192d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\58\c26acc1bdfa555590f3f0127da7425f6c6b288
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\59
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\59\3f3a535f8c71690f36f5f66e70e4e3face583c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\59\c943f50d4ffae42707183c132fe3cfeff303ad
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5a\2456f0195694373adb693db235849dc6ef864b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5a\64de156e35b2c45c79bb443a715be860489d8a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5a\9831050144fac57efcc2e8046a2de11217545d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5c\662dae5db9e2a961dfa366e023a090aca18fea
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5d\745aa8cb4d6189dd12704f5f64a0f0c3afa8f6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5d\f20f3a531ab7f9dd16220c857a6122cc57368a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5e\2ea573860016d1212770e21b29c5d41e348882
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5e\9c5c7e465078b98674e08a27ac53c4ab304e35
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5e\ef906b47733fa007570c73ccd5b5b86d5b7ebe
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5f\854d158d6d98218e4c6780adee72fab382ece6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5f\a26f215649d7d6f5b8748f251ab9de855999f2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\5f\ac3dc100ded6e50757fb82abf05fb96a5c19da
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\60
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\60\44bca35f62b04759e9e15b3cabe2ebe3b19414
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\60\ae7edfd0796a383a4c75359d6fd40eeeec8bba
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\60\c969df3ab3cb9e769430c6a26e10c910486617
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\61
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\61\eb2ee0a2b860976063b5d1708919e87b115d69
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\62
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\62\f511e72420707a1107d29d09e99aadb575d319
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\63
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\63\e7920d5864e49d2629872b669ba3a4472b29d2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\64
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\64\568c51b677fe7cb045f5232c9d9a5cf63a7489
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\64\80cd5bb8282b84d585b83fd38e09dad06189f0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\64\a1f1ed9821089f429f699303272b24c5e31c61
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\64\ba884a380c8963bfc4ee8b693c895331f49647
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\65
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\65\137c744ecee0b0940b2af540d2cc6a11c764ca
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\65\b68dd799cf6911f034dc95133e980b0baf97e5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\65\cf361edeb74650e32d59999772108ef8d7def0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\65\e0fff13e7a19dc413f43bf68d99339094170b5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\66
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\66\0dbaeceae082692f05c06292f76071394b4938
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\66\5fb970251cfe7f0bfa0ac220d96a39725cbe8d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\66\c17003326b9c13ee60d32e47d92849e39e0f99
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\67
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\67\37aadbe5234f48f2d759a226a0a3d8033f5376
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\67\a0d75a97d6b305c685c3afd09a9cafc9e4c5d2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\67\cf8ddea83ef336568be3e6a6a09d72defbe5f3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\68
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\68\ebda2b88649a150a68d729f01ac97b78f344d4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6a\ebb89c398011b96c45eb0791c8842191a0f4f1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6b\67b55c290b02142bc39626fd0b6e006b4f75d3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6b\b412f10f69ebe7541fe1ac0165bb757ae9e0d4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6c\c475669db70a3db5157f755fc3428a9a679283
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6d\59db4f3b3c542f8acf6bebc4c0ea937d5147ae
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6d\92f50a3cda7a6f60e3df1d1dceda2459ef506e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6e\00367971be387c5d5f810b975bd6c66a0d1b36
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\6e\ae1a00d3ad1dde94ce242b5158297720dce2a4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\70
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\70\0e7d313c6b783087613aceaae7267db21848ce
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\70\1939852018536895277465f8747ac88c266097
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\70\7cdc3a2cba049ca5376029a1a1653a0262249d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\70\92a46dd4dfb0c0f79711655644c8fb655aae72
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\70\d01158cf2e3077dd714c814261936cdbc3ac58
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\71
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\71\6456716dd9428f962851c65ce6a0cea0c0c745
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\71\f36487b95434ac08c40e23240db159363ed422
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\72
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\72\27178f18e09c7eb7dfad7dabf456171ef2ec2b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\72\b16bd5c5e78327a1cb99a1245782419770be30
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\73
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\73\1e7b706b375ea0cbaa7bd8787aa86cd16748d1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\73\1e89536bfe2e5a0b380952fafe178b1f3cf92a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\73\28bd021eb0a47abfb9cb3c793b137606bd4708
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\73\6b1f3d0c8aaca1fb885409d7171cf58bc2c531
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\74
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\74\1d9e704201941c1454685474b9c05de4c76e5a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\74\266fc4861c033cf30abf4895fec802dfd9171d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\74\593414e130d98d52684abb891b1343c990d950
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\74\749c4e3a87efafb6a5121d41a369b240e8d246
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\76
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\76\5594a41957e3516b17072da4184b9928b0a813
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\76\d91b48e6c7dd12d1382a657eaaad50d10cfc5f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\77
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\77\e0016e06f8fccff8f6173dbb26459ac68b9eac
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\78
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\78\72ba1471f68533dcdb622a0fa0788d13934466
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\78\a477bc09a3397b04449b4caa5ba35899ea90a8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\78\f478ed52ea3c5210d1c5a3302fbd7db2ed4933
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\79
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\79\6d5370282acfe6363403cdd5f9c121760764be
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\79\9bdc6f4f17569795bc45a8b6a7bcacd442c4e1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\79\b85d1c330c62c49ac90f8f38eb7f2383256dc1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\79\ece0434d87041faf940a11fa3f50a8a5d99e5f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7a\67203a4cb1829202452b4126744ae256420297
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7a\f0bdfb35a0e1023bc770c7d7dca18ab5f59e7c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7b\ab7982c34dae60e1e021f76d01de007f57a4e6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7b\ddbcb2fd81ef3884839fcfb272342a12f82531
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7c\4c4b9a405be49f02852c161c7f8a5f1671e07e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7c\6e2283846f971a7d2b48bc57e27fb92f9ca544
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7c\e9d886604fad7b03cada7fb55068325adab135
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7d\34796545b830ca6a37fa3ac0cad67ae0f1b825
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\7f\9e60214d0c760c55f0ca69d4680508aaa9c865
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\80
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\80\3e5b847a880622ffbbfd62cc4ce1260a0a1c2f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\80\4e9ae482c72161ea19f9c9ea1ad5cd7a73f650
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\80\daeaca004a05f2b5c5e637eebaa5498cfe91cf
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\81
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\81\3c763543cf39c4953ed292b8e96735b249cfe9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\81\40d31921c56452f7e106a3f741d633a8f8f6d1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\82
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\82\1ab66659adfc7a09a9197d9500a7e2ce175185
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\82\27cc415905aef30877ff2914280c618f825f64
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\82\648d20ae419f752009ee04cb7456d21d0604c8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\82\7735f93fd8c1acb798b3b0bdd0962471b6f25c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\83
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\83\851c790aa58b0d237ed95390c3939dde67770c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\83\b48837315f1bc5c7b9ca7ffbc58001bc17aa1c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\83\c87480bbd725df2dd0f67690593e41935c048c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\84
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\84\cfc28d6298c516de6decc9f4e6d84a1439d7c7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\87
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\87\451a932df78aeb0f6cc4f49ff7694fe526139e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\87\80f7d71ef87f5226c13f162747b4d392ed1c18
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\88
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\88\5cfc660c78a374e017bf6bfeab487fbf203440
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\88\876b0a3a42d52c9b3b58b5a836fe13376f53d8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\89
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\89\3ff8ce87808f683a89128e7601b343083eebd1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\89\550940454ad345857c5543b00232941db96fee
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\89\d017e90bb3cf3ae248a375aa65eae0a8ec2c96
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8d\05f637ab8454a26a2d51e209083d62c493ebe7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8d\14de21411c420e9122bc04ca35ff838301f43e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8d\48a4a4c631e331bf6a36a7da0c70d67291ee6e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8d\7d02d9caf69fd02b769bca8b93af673ed85f9a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8d\a5ac482c55f6c64e8c1559901ac6cdab65762e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\8e\2e72d01314d23bbbf89d66a65527623802479e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\90
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\90\44d74a8bc31be637bc415d34ec63870b82cc0e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\90\47361417041c62e585dc41887fc766aba55eb2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\90\474fc5ce89dfca58d9e83e7114bb9f9fee61b8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\91
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\91\3d79b505eb12bec8a6a27622cde214a5600cf7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\91\d2fb9d1cfa7d3e8918224fa0f9c3137ce5f15b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\91\fcb40113336d63095dea0229afb2c9822e33c8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\92
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\92\455c16d67cb4d56c335df3c29791ac45011c62
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\92\74a3a12906ba31fdffc7c766e00033d9c1f46f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\93
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\93\074a87a2a126569f5e44aac120213073f47009
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\93\29c85fcbcd8f37f38cce7704cab8f953971885
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\93\7c97d2de062874e43f7f24c566c670bc67f809
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\93\a028a0b24e40381d792e1b3e3768acce994cf1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\94
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\94\0ba4342ba1e9bf9235fef8b24b078da212bac9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\94\2aaef4c46f35d8e3d836331802e0072c9aa7e9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\94\397403da1bff6bd00ab0c647d8fe7e0150ab1d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\94\d3ade46930cf7fe8cec6643ef2d06583057ac8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\95
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\95\9f3cec512daf3cdad62b87c9304525bcb99610
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\95\b11a5f4a6e1c212ccff75ea70e321cccb4551e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\96
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\96\21c3c34799364a0a7fa7b841c43570fdc8c6b1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\96\417e2788f4fbcf0c3cfc10a10b976e9464580d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\96\f0f94f073fbd3b35cd5b998e0ed82bbbf52213
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\96\f7483c46114b8cadfe3b294d86f7a456b8380a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\97
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\97\0322d381da9f6e3f1f3d91b6a24b3decffc0ae
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\97\43897afd3d703457c84b1bd6475ac2fcd1eb2b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\97\bd145cdba10727f51a4eb3045175a8df3c3918
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\97\ddc4ad3c4fa833cc23eb0ea85036dd90b220c6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\98
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\98\60ecf8d3942147b92f3a66124cfb38d2b78ca8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\98\707c1f596a53e17af4b1066e5cba74e1740b02
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\98\805bf6a75b78284e62edd071e81e06f2652c10
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\99
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\99\09c6ab8354351d6456ed56270eb63feb719d06
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9a\153fb4e0bbbd7d3ddab8bb2724e929242eb16d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9a\2f13c5db9163d6b6cdcbb8da3c9451a96f8eb6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9a\695cdbf5730a6a199d461d1dace16050284161
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9a\db1d6148a6597acf3eb2ea71f7c97c036a902e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9a\e44dd4d68d2e899e77a0262ae5db1df6bccec6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9b\38e34c61cdf515eb1312b3e23dc1d727f1c06f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9b\8f31bf99319db5272d5a3b6b9efc52b9ad64ac
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9b\d1024f8bf17f0f426cc3e4307cf1b2ccefe232
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9c\5bbc5a4527d4be4ca940acd6808a70eec72fad
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9c\65824ec906a24f3c0af6f9b0f379724f862519
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9c\852729958e5154743da4706a6fe137f8b7e6e3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9c\981a539b5740915335db94e87b789f8460c767
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9c\d779922489b1b54a2283a9c2d315ca047adad1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9c\fe5698e9dd2fc6cae68280efb1630ef3b78ba6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9d\2c6fa5f3a87dadfd99ac80544770f49415e972
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9d\cd1afda1744b85b2430301dec14052eec27d8e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9e\25e9b876855da4e8169e90069b58e27031a6c8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9e\5397aa720976d048dee0205c5e660190092cd1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9e\fcf1684dbec09407b319819f4a768ef92d961c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9f\2b4102452e88bd20b96601f342c1d146d21c81
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\9f\acccd8a46a54004488d2396a2d2ebc3f1d92a8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a0\ea6745d146579648e70010341b1b5a9af70c7b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a1\da751f0547fc5e07e7cdf14c0004bc7bc70a7c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a2\0e442e06b3a6e51138a839aa1bb59fdb258a39
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a2\40c67995d3b1917343af04091f64922e294e8a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a2\daf06341c03afb56957c54578d4dcce6da857a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a3\c137db74409c2a166b2ee22c7bd39f1202ea34
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a3\f284b00b80c6b77179fcc3a0d4f6b84613ea55
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a3\f3f8d41ee6345c65c55813273758908f0cd9e2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a3\fe7de787100c2598b018e2545b1d9a6540f8ca
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a4\3666a8cff3052e81cd686374ec3e1e365e1b1b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a4\46be76e66ffb30578b126dd031c1ac51787862
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a4\aab7212447d2e6243db6eff2821cfc4ef0be70
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a4\d1391395d6b18bb4faaaa8d3bb11e1901a5ebf
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a4\e53216527c1167f3b5bbd09c7ee2ecc42b8bbb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a5\27504218d19ff072a6692a5304b110b747b24b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a5\58ed6235df2de97ec82ebbbad39a4256f29db0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a5\5c0de3cb18b06a28df8b3f23e947788866ad47
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a5\79e0810ea3d7ad4c850ff2564d453c19ec8c36
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a5\8fa8c7a57287c37a437a571469e4369d44ee96
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a6\044b5cf1c22d740a99f28e8affeb55b5d6f36f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a6\8a8da1241614c65e0fd58867ee6107a80a1935
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a7\23fb175ac7d55d91ac0a49cd532cb6bd3200d4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a7\4857065c4a1470007b08c18ddda4954d69cd1d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a7\7a51ef45a4767e64618a629da7c73775d74676
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\a9\ac958e3bcf390ddd2e53fc42a4412e5af49aad
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\aa
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\aa\1f43b2b438eace13e33dfa7a610270db114b49
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\aa\97162249108e651ea20c198dadb549e0a283be
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ac
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ac\67bb9bdd174b90d0f746ae3a6256f12c94a388
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ac\f95e6878fb5f1e9962323e93531723ca28f422
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ad
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ad\aa3a172254801e6c7c87dd9daf28f6c19a7c9c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ae
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ae\00b71528648fcc81541288a294e707e0eb47b4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ae\56751650b9e6578c989d6377a4f9c91c054a45
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ae\d8a4cdb8ea2153c45caa15d6e863afe7fb6041
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b0\5245a48c94183579509f0a2ddcc2b87b87f4bf
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b2\9fd9bbd8f3a45e8c175f21607aa827119f54d1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b2\f27735c366b942ce5124c3bb5503b40b106468
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b3\27925c7617c2a8ab3545ee6cd9f9eab744343a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b3\33e945b182078764c1a231afc478c10b8bcfbf
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b3\557fa42360ce3ac988e45a139592dc0d1bc7a1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b3\74297aa163040211b896d891cae1338950bc72
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b4\e1475a925eca1861fd9b943fc3050c2a10cae4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b4\f3e0684d701cb6252b647bae68ca2564b6c640
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b6\78a341bb7f584730cdf09557362cd4016ab2f3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b6\98256c26af8d86622a7248070ee0496e662da3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b6\eaeb695887ff018b6f043f149b989e095da715
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b7\298ecfb27f2af2e9fdc964bf1e85166f627db4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b7\6473b71a8f7026a09d9ce907142967f9b819b6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b7\87d3c914d8a7812129862064ac41bba3f7829d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b7\f7c953dcba1ea5d498d15b2b0a57ee46302acf
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\b9\3cd1adb4e3e0fd58c78b9558a7533c1bb4a1be
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ba
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ba\370afae24bcdc51a95297dbab2baed345ebe07
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bb\09eaeef571d882edab86713feb82e3faf50544
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bc
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bc\7760c36d4ef4f45049f4c3fdfe54ea1fffcffd
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bc\9e4bed43a3fdb4c07263e60280713c3565a0db
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\be
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\be\41a546f6671517d770dc64581ba9d83c38b633
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\be\b1810387f5b4fd56c44a21bbd52ae156c42f4c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bf
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bf\6071084725a8b2fb9494ea4b48cb3a8ff48d4e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\bf\c46981f43411771132c30aad959d25adc9e3cd
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c0\5c7adad486ca227ceca65e14bba5e4e0805417
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c0\b8ba1a214a6e0cd8f7ec513640fead6792ddba
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c0\f21d8f50de4e9b995033c29d4161ec04ef47f4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c1\1e6f13fb97f8f0b3802ac3bdd98d951ea6f4fc
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c1\4fdfdf87b0aeb0bba9fd16a4ee1045a2e956dd
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c1\e5d9eed4ab920e45c77d68f462a893cc4c3e6f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c2\05de444c629c883949f83923d2fa3ce68d897a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c2\6a146e4dd3a199b5b3955f3b52a8317a82fa25
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c3\1c7fab0741a7346c298413f207b84e8209f299
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c3\2f2089b9d62b2a00b63a5b57b3c2fc6c249eea
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c3\3d17217c3b1a580c9a09d2c695eaadb614c878
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c3\8c876fad7cdea41103e9c71e76484d743f8b72
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c3\9b19f9c5f76ada5e669ce47f4dea5e35bd7cd0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c4\40e3a568feb3a5bd49749092849da33dd75b94
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c5\234dcb4dbdc4fb6890bc78ae1122fccceaa204
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c5\b3222bd17bba11bc3e5dbc6f0c3ad5447b2a37
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c6\c04c8ad49213b3ccd9a9a0c8e2461067902f1c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c7\3f332174d4b19e290f5910eef9bd0a24eadaae
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c7\730b3fb6835699657ec8b0af7c31160b00bb03
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c7\9f94d457061230c9ddf44d6bdc5a456f4e6633
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c7\e6b9ae4f0a3d9d41b94e8c8b48d91aaa98cacb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c8\a43ce6547fad6f9171011afa31c75fd1bfc9ad
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c8\e0f042d822ad448e7df5f9981f1200caa29ecb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c9\31ea2277c307a5ca659f826d0f9982973934b5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\c9\b1d51c320fb9a08c6cdee523977278eaadd8f6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ca
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ca\53ebff7cfbc52fd1621b364411c9e496fef2eb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ca\69e89a25990f17c82f77e5f6777fe44fb075ed
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ca\983a42ab72fd4e465356707d14231e62b56ea6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ca\b7b01d3a754d5666c59217aadfc470cffd3cf4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ca\fb9c34fe861d3fa6726b0f83dc532aca468812
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ca\fe3f8befa9b52dd4972d0a7dff857e3d8b484b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cb\e85c5343f254d92033a7aa82dc2dde247db35e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cc
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cc\7934107a4044de36999f3dcc6ccd3438217db0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cc\b994a29d6c48b1e983e38719528a0c097f9789
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cc\d2b6e56e70f87d0ffca7bb0e7f532701b28352
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cc\debed0ac77a04d7ed64633092163476a64730f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cd
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cd\6ff4e7b84173dfc065404e075aaf789ee41a2f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cd\7fc686bbcf006a7bdd839391a2003e124a7b67
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ce
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ce\080cb183895ddad4ca29a242e9504528515fcf
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ce\0b4c228344e786d96329b8eb12caa2d6ef6127
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ce\64a15abb6cbb00c1db9f1189673768195e3046
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cf
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cf\7592216948c02bdac95d99022517cb762617e7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\cf\db66aeb948f9c96765af6e5d23bbc2c451b58b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d0\8c0ae50a6178ca55b970d6cf620dc936af6f4a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d1\1121affa02e2ccc0d751ceaf211499cbe09cb6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d1\3c54e4182c25bf4af9e0803cc8160b0d8fbe48
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d1\5da58a89465f0a9f3940ea5333c8d28e2cd36d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d1\a13bf1142e2a2b304b1bfe23857692bb41da97
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d2\1c5f79ce97e37b8fc7e48bfebc0081ed44d6b2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d2\2992840ca4b7bae36e12dd0d3fac8661277c6e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d2\3ac89060561dc6b6fc18a3f7ec53d2acbda857
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d3\46721436d33b9c4abf0f2f1c236e862e7d944e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d3\9201d8b28d5fa08bfc5d552e306dd4c5dee131
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d5\2077889839834926f68d9a8748b8cead66d687
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d5\275397030e9b4ccc09319e40990c3c843eae6f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d6\83ee57c1071e752fe0986ef8c947df3edd03e1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d7\3530d2b3a80b14c187f54c7a352c1109347dd5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d7\8a831d1b6fddcc2ac9b8c14c09148992fb01d6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d8\260def81bae70a4b16907dcfa6aeeaeb57d7d4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d8\38f276a06397b2a5e3af52835e0cf66f347f48
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d8\9ffbe41101ea55169c5668450686306ba0cecd
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d9\1d4203262579217ea2e87c6fd56e5e13c8ffd8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\d9\60abd60c1eaf0d382a6b8488a3cddfc7154fea
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\da
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\da\0bcd4328e4bab19773d0883bb5ff65a338d3ef
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\da\0fce0719132b6153d52575910fde680389ed66
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\da\9acc230e07466026db0e031e1aa7652da8d01b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\da\b64fc2485b6326db84b536a7569baf638212fa
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\db
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\db\e2a8050999b5f840fd3043340921174847e286
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dc
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dc\a51a9cea223209dff55b0b172aac4d503b7656
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dd
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dd\05cc3c918531837e4c945a22b198889175d519
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dd\0c67ee23b149a5aca09d485406fa770b824a65
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dd\206c5536378c0d60502eaa56f2e3c379a44fdb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dd\451d68bc96b20c80cf78621fea373ed6f05455
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dd\afc96f1048baa3e6c939b7218222df55cb0be4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\dd\fbe58d87d061faf23643eb77b132107f6b65e2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\de
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\de\6132695ca33f756b2a233219eefa16a844ea66
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\de\a0c1737a2fa1fef5d2e1163d780f4014aad47f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\de\cac5558a58ffdd45a627cb84dc172fb0bcc517
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\df
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\df\8c1d96d0253cdbce04c4d07b30789c543f15af
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\df\d10b3bcb0421011a349799d80dbd4032e77ae3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e0\149e9970bd26b0e5a521c7dfaa927df753b74f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e1\6078770e28c54e3c0f49383e45d3325f984ca3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e1\ad2c6773b53e4498379a984c2be1d4c4962c5d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e1\e37ea308df349d0d6205a49dfe95665d55dfa2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e1\e97a5533c814df548e4e060f92848e9645d93b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e2\16d968f0a85540d4147bada9fe48b2dec166ef
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e3\4380accc7e4aa4a280b3593f722d9f5231fae3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e3\73362e978b6ce998d62552fa3b7f365601d324
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e3\9cc70999cb5e63a1a70a0b3a4412f96a19300e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e3\cad56a12e50581b857ca046c2f2ac50781fe1a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e6\77de84d060d7ed116262d785e8195d6990452b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e6\b17473cadc12f70af39c572d1d2712243b6b8a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e7\0094cda13feb061945005863f777b90d622b2f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e7\4b4ff7ce3892621f41f5d807130d785a2c7b04
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e8\34678c663ec7a35dd967e87781c242235882fe
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e8\be6e744796d98beaa705311a5d6fe398aaad6b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e9\1a2f225e647b8e32a0dcafe1eae064e076fdd2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\e9\75f450949fb95b2be7c9bfa44e1992a8f0ba41
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ea
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ea\86ac3985e6f4c8fdbae532681caf971ad4fdb6
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ea\c871939895a4e2185eb751b700916d5b86b25a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\eb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\eb\538fcb37dda940ab6fa56d11ba8809bd12040a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ec
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ec\28f58e6a9506cb0783d2c00ea90ea49f7fb130
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ec\59bbe337d3c09e3191ee7860da9219c257f816
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ec\d5b6f676d290c8c565222f03abc8143ecf3ec0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ed
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ed\3e5a4238ef814e10f36df999c4392dbc395c48
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ed\d9a574a42732a3095fa394eff06ea87949d313
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ef
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ef\6bdde772dc9db31b57ada27bd6656879d9738c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ef\87dad2e396c385d521a8766855c53528fe2579
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f0\218f4e81323a80579d966f0082affdff2c78b9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f1\49bcaf043e47b79d67427c6b7f7386f229a020
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f1\f8c138a67188c6d1819548142ca80f59cd02a7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f2\43d15aa34e2b4e52887fdd45a366b917a0b935
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f2\cd42500d19e8fb8de6e71240b78f0bc6a574eb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\40bb513214cbb8079e44f93da363b247abd356
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\77fdd6fa7aece0f324b6bdcd5f0a3d40ffa81a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\89535730109680d217354b59206d24f4b65a7d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\8d2c8fd930a8fdaa5aed21d906944886d81fbd
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\91e390322fd1754917e22a92def2945cf60f52
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\b09e1b23b25d8ee0a1cb131a3527328c315f8a
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\cc09ff6bd1accf846711d395da5d380881ec24
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f3\cc2d791b9b587ae423509a49cf48af069ff33d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f4\676acc2686c8ef1ad8d3750c21cfe8183795c7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f4\b5d60014a4c1166b3de35375e3268a728c7524
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f5\69d7287daae95c49132f817bcba051b2319fe5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f5\a4288df9379d8a270f24aba09a17f1b2a507a4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f7
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f7\214e098589914ab55c77f8c247063d533ad30f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f7\5cf05d2daebc382307580b895b51f7bed14105
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f7\71d286eb2dc56b6f2c40528c6175666ff1301e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f7\a0b0bf920cc79d6682fd12d81943db1c066ad7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f8
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f8\2021899eeb28e39eca376d6466b902e7169b1f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f8\3d6f15dc233fb02ca205710f947f7c00f2bd12
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f8\80468c717fea4c891adb49b4ee90351882843e
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f8\95d0550837e2c0686732af18a661cddbe5eeef
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\f9\596b9c9440b6707b70f92738fb0f121e67eb3a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fa
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fa\9b1d29a0ceff607ec4592fde9cd58f2a146faa
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fa\d3b0aa84c349dba4d6a354806bb22d683b95ba
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fb\e1df48965f6a5996ea592a6310bf73481ef035
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fc
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fc\54c49c3d8c413f6e7507f5ee32c1fdf5c3f77d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fc\ca096d9b4a2f239bda523aab3f55042d8bdceb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fc\df90a41f3bfa6fc14c8076e2b10e9888948a92
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fd
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fd\02bc2c7c91a4c11c98ecbb188f36f91dc086e2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fd\2fa3d4fc92c29c6845d2a904dfe23c65c52968
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fe
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fe\21f5a8b7a929952f60e16af3931794fdadfb58
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fe\56cb5c9aa3e1e194cd8a22c33aabbb3ab37979
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fe\a05d5caea9a8504380c98e9c0303d4f1f07327
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fe\b671e3eadea2514293d81fe244fee7694a8313
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\fe\c4b41c1f5bbcffb2a13d0a9de54bd6f038cf14
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ff
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ff\471732d671c811c01f729ead634ed09f51f48c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ff\a0ba8b5ce21489d5c6404a0001b19d67dfbb50
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ff\bc472678ad7abc01168f66272eb14d0fa06063
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\ff\e0be790850dc82a9173b14bbc8043e9c5d8886
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\info
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\pack
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\pack\pack-dabcbbd3a15efb8beed0ee193f8bb0c5e54204c8.idx
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\objects\pack\pack-dabcbbd3a15efb8beed0ee193f8bb0c5e54204c8.pack
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\ORIG_HEAD
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\packed-refs
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads\main
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads\Task-2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads\Task-3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads\Task-4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads\Task-5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads\Task1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\heads\Task3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\dev1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\HEAD
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\new-task-2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task-2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task-3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task-4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task-5
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\remotes\origin\Task5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.git\refs\tags
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.github
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.github\workflows
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.github\workflows\build.yml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.gitignore
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\.gitignore
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\checkstyle-idea.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\compiler.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\encodings.xml
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\inspectionProfiles
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\inspectionProfiles\Project_Default.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\jarRepositories.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\misc.xml
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\shelf
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\shelf\Uncommitted_changes_before_Checkout_at_09_12_2023_22_55_[Changes]
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\shelf\Uncommitted_changes_before_Checkout_at_09_12_2023_23_29_[Changes]
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\0\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\0\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\1\0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\1\0\10395e46921653f02bed3395012fa423d7f03db5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\1\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\1\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\1\a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\2\4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\2\d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\2\d\2db1962dc1f1285dd3ca96969a519946d47724f1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\3\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\3\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\3\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4\4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4\b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4\b\4b3601bb04fcd8e6b31555bfbb264ea39e0e7302
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\4\f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\5\1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\5\1\511daf3a5f38b2ed2c0a72915fd3041e91d74ca1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\5\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\5\b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\5\e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\6\4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\6\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\6\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\6\f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\6\f\6f879ca880af03dc4d9c17d3347a64830073c528
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\7\1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\7\1\7198de30c571352765f44b4011cf15e826445585
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\7\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\7\9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\7\9\792c9cf62277c26738f8c05f7d6c0493cdec3ecc
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\7\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\8\2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\8\2\826a0ed57c43d78f99096494f01595fff8e23e8f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\8\f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\9\0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\9\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\b\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\c\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\c\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\c\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\c\9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\d\0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\d\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\d\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\e\0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\e\0\e010e9e6fa317bc2dbc916646881477791ece6be
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\e\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\f\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\f\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\f\b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\f\b\fb3e43f1bfe9116419adbb52bd55422b89207245
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\f\c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\issuestore\index.pb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\0\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\0\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\1\0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\1\0\10395e46921653f02bed3395012fa423d7f03db5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\1\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\1\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\1\a
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\2\4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\2\d
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\2\d\2db1962dc1f1285dd3ca96969a519946d47724f1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\3\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\3\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\3\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4\4
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4\b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4\b\4b3601bb04fcd8e6b31555bfbb264ea39e0e7302
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\4\f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\5\1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\5\1\511daf3a5f38b2ed2c0a72915fd3041e91d74ca1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\5\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\5\b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\5\e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\6
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\6\4
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\6\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\6\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\6\f
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\6\f\6f879ca880af03dc4d9c17d3347a64830073c528
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\7\1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\7\1\7198de30c571352765f44b4011cf15e826445585
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\7\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\7\9
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\7\9\792c9cf62277c26738f8c05f7d6c0493cdec3ecc
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\7\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\8\2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\8\2\826a0ed57c43d78f99096494f01595fff8e23e8f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\8\f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\9\0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\9\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\b
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\b\5
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\c
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\c\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\c\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\c\8
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\c\9
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\d
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\d\0
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\d\3
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\d\7
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\e
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\e\0
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\e\0\e010e9e6fa317bc2dbc916646881477791ece6be
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\e\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\f
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\f\1
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\f\2
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\f\b
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\f\b\fb3e43f1bfe9116419adbb52bd55422b89207245
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\f\c
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint\securityhotspotstore\index.pb
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\sonarlint.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\vcs.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\.idea\workspace.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\google_checks.xml
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\images
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\images\img_1.png
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\images\img_2.png
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\images\img_3.png
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\images\img_4.png
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\images\img_5.png
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\LICENSE
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\pom.xml
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\special-computing-workshop.iml
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru\spbu
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru\spbu\apcyb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru\spbu\apcyb\svp
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru\spbu\apcyb\svp\tasks
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru\spbu\apcyb\svp\tasks\ExampleMainClass.java
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru\spbu\apcyb\svp\tasks\Task3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\java\ru\spbu\apcyb\svp\tasks\Task3\Task3.java
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\resources
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\main\resources\docker-compose.yml
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru\spbu
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru\spbu\apcyb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru\spbu\apcyb\svp
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru\spbu\apcyb\svp\tasks
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru\spbu\apcyb\svp\tasks\ExampleTestClass.java
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru\spbu\apcyb\svp\tasks\task3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\java\ru\spbu\apcyb\svp\tasks\task3\Task3Test.java
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\ggsgsgsgsdgssdgs
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testDir
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testDir\testDir1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testDir\testDir1\testDir
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testDir\testDir2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testDir\testDir2\testDir2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testfile
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testfile2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\src\test\resources\testtest.txt
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\docker-compose.yml
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru\spbu
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru\spbu\apcyb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru\spbu\apcyb\svp
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru\spbu\apcyb\svp\tasks
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru\spbu\apcyb\svp\tasks\ExampleMainClass.class
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru\spbu\apcyb\svp\tasks\Task3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\classes\ru\spbu\apcyb\svp\tasks\Task3\Task3.class
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\generated-sources
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\generated-sources\annotations
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\generated-test-sources
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\generated-test-sources\test-annotations
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ggsgsgsgsdgssdgs
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru\spbu
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru\spbu\apcyb
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru\spbu\apcyb\svp
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru\spbu\apcyb\svp\tasks
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru\spbu\apcyb\svp\tasks\ExampleTestClass.class
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru\spbu\apcyb\svp\tasks\task3
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\ru\spbu\apcyb\svp\tasks\task3\Task3Test.class
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\testDir
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\testDir\testDir1
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\testDir\testDir1\testDir
+directory:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\testDir\testDir2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-classes\testDir\testDir2\testDir2
+     file:C:\Users\share\IdeaProjects\special-computing-workshop-template\target\test-cl
